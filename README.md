@@ -28,7 +28,7 @@ export const obj = {
 	_id: '',
 	account:'',
 	user: '',
-	pubKey'',
+	pubKey:'',
 	encryptedKeys:''
 }
 ```
